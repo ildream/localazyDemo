@@ -5,3 +5,6 @@
   Created by Jay Wang on 2023/6/20.
   
 */
+
+"Fiat.Chart.TipView.Items.LowKey" = "Low";
+"Fiat.Chart.TipView.Items.OpenKey" = "Open";

@@ -16,9 +16,9 @@
 		C15C1B312A41971200BF8657 /* demo_LocaloazyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15C1B302A41971200BF8657 /* demo_LocaloazyTests.swift */; };
 		C15C1B3B2A41971200BF8657 /* demo_LocaloazyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15C1B3A2A41971200BF8657 /* demo_LocaloazyUITests.swift */; };
 		C15C1B3D2A41971200BF8657 /* demo_LocaloazyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15C1B3C2A41971200BF8657 /* demo_LocaloazyUITestsLaunchTests.swift */; };
-		C15C1B4D2A41976A00BF8657 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C15C1B4C2A41976A00BF8657 /* Localizable.strings */; };
-		C15C1B4F2A41977B00BF8657 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C15C1B4E2A41977B00BF8657 /* Localizable.strings */; };
-		C15C1B512A41978600BF8657 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C15C1B502A41978600BF8657 /* Localizable.strings */; };
+		C1D2603B2E4B7D49001C8647 /* Localizable_Wallet.strings in Resources */ = {isa = PBXBuildFile; fileRef = C1D2603A2E4B7D49001C8647 /* Localizable_Wallet.strings */; };
+		C1D260412E4B7D55001C8647 /* Localizable_Fiat.strings in Resources */ = {isa = PBXBuildFile; fileRef = C1D260402E4B7D55001C8647 /* Localizable_Fiat.strings */; };
+		C1D260472E4B7D5F001C8647 /* Localizable_KYC.strings in Resources */ = {isa = PBXBuildFile; fileRef = C1D260462E4B7D5F001C8647 /* Localizable_KYC.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,9 +52,18 @@
 		C15C1B362A41971200BF8657 /* demo-LocaloazyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "demo-LocaloazyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C15C1B3A2A41971200BF8657 /* demo_LocaloazyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo_LocaloazyUITests.swift; sourceTree = "<group>"; };
 		C15C1B3C2A41971200BF8657 /* demo_LocaloazyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo_LocaloazyUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		C15C1B4C2A41976A00BF8657 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		C15C1B4E2A41977B00BF8657 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		C15C1B502A41978600BF8657 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		C1D260392E4B7D49001C8647 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable_Wallet.strings; sourceTree = "<group>"; };
+		C1D2603C2E4B7D4B001C8647 /* fil */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fil; path = fil.lproj/Localizable_Wallet.strings; sourceTree = "<group>"; };
+		C1D2603D2E4B7D4C001C8647 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable_Wallet.strings"; sourceTree = "<group>"; };
+		C1D2603E2E4B7D4D001C8647 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable_Wallet.strings; sourceTree = "<group>"; };
+		C1D2603F2E4B7D55001C8647 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable_Fiat.strings; sourceTree = "<group>"; };
+		C1D260422E4B7D56001C8647 /* fil */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fil; path = fil.lproj/Localizable_Fiat.strings; sourceTree = "<group>"; };
+		C1D260432E4B7D57001C8647 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable_Fiat.strings"; sourceTree = "<group>"; };
+		C1D260442E4B7D58001C8647 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable_Fiat.strings; sourceTree = "<group>"; };
+		C1D260452E4B7D5F001C8647 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable_KYC.strings; sourceTree = "<group>"; };
+		C1D260482E4B7D60001C8647 /* fil */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fil; path = fil.lproj/Localizable_KYC.strings; sourceTree = "<group>"; };
+		C1D260492E4B7D61001C8647 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable_KYC.strings"; sourceTree = "<group>"; };
+		C1D2604A2E4B7D62001C8647 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable_KYC.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,7 +148,7 @@
 		C15C1B492A41972C00BF8657 /* KYC */ = {
 			isa = PBXGroup;
 			children = (
-				C15C1B502A41978600BF8657 /* Localizable.strings */,
+				C1D260462E4B7D5F001C8647 /* Localizable_KYC.strings */,
 			);
 			path = KYC;
 			sourceTree = "<group>";
@@ -147,7 +156,7 @@
 		C15C1B4A2A41973A00BF8657 /* Fait */ = {
 			isa = PBXGroup;
 			children = (
-				C15C1B4E2A41977B00BF8657 /* Localizable.strings */,
+				C1D260402E4B7D55001C8647 /* Localizable_Fiat.strings */,
 			);
 			path = Fait;
 			sourceTree = "<group>";
@@ -155,7 +164,7 @@
 		C15C1B4B2A41975400BF8657 /* Wallet */ = {
 			isa = PBXGroup;
 			children = (
-				C15C1B4C2A41976A00BF8657 /* Localizable.strings */,
+				C1D2603A2E4B7D49001C8647 /* Localizable_Wallet.strings */,
 			);
 			path = Wallet;
 			sourceTree = "<group>";
@@ -246,6 +255,9 @@
 			knownRegions = (
 				en,
 				Base,
+				th,
+				"pt-BR",
+				fil,
 			);
 			mainGroup = C15C1B0D2A41971000BF8657;
 			productRefGroup = C15C1B172A41971000BF8657 /* Products */;
@@ -264,10 +276,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C15C1B4F2A41977B00BF8657 /* Localizable.strings in Resources */,
-				C15C1B512A41978600BF8657 /* Localizable.strings in Resources */,
+				C1D260412E4B7D55001C8647 /* Localizable_Fiat.strings in Resources */,
+				C1D260472E4B7D5F001C8647 /* Localizable_KYC.strings in Resources */,
 				C15C1B262A41971200BF8657 /* LaunchScreen.storyboard in Resources */,
-				C15C1B4D2A41976A00BF8657 /* Localizable.strings in Resources */,
+				C1D2603B2E4B7D49001C8647 /* Localizable_Wallet.strings in Resources */,
 				C15C1B232A41971200BF8657 /* Assets.xcassets in Resources */,
 				C15C1B212A41971000BF8657 /* Main.storyboard in Resources */,
 			);
@@ -347,6 +359,39 @@
 				C15C1B252A41971200BF8657 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		C1D2603A2E4B7D49001C8647 /* Localizable_Wallet.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C1D260392E4B7D49001C8647 /* en */,
+				C1D2603C2E4B7D4B001C8647 /* fil */,
+				C1D2603D2E4B7D4C001C8647 /* pt-BR */,
+				C1D2603E2E4B7D4D001C8647 /* th */,
+			);
+			name = Localizable_Wallet.strings;
+			sourceTree = "<group>";
+		};
+		C1D260402E4B7D55001C8647 /* Localizable_Fiat.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C1D2603F2E4B7D55001C8647 /* en */,
+				C1D260422E4B7D56001C8647 /* fil */,
+				C1D260432E4B7D57001C8647 /* pt-BR */,
+				C1D260442E4B7D58001C8647 /* th */,
+			);
+			name = Localizable_Fiat.strings;
+			sourceTree = "<group>";
+		};
+		C1D260462E4B7D5F001C8647 /* Localizable_KYC.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C1D260452E4B7D5F001C8647 /* en */,
+				C1D260482E4B7D60001C8647 /* fil */,
+				C1D260492E4B7D61001C8647 /* pt-BR */,
+				C1D2604A2E4B7D62001C8647 /* th */,
+			);
+			name = Localizable_KYC.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

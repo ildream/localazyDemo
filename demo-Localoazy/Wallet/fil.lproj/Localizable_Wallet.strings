@@ -6,7 +6,7 @@
   
 */
 
-"SpotTrading.TimeInterval.5m.LongName" = "5 mins";
-"SpotTrading.TimeInterval.5m.ShortName" = "5m";
-"SpotTrading.TimeInterval.6h.LongName" = "6 hours";
-"SpotTrading.TimeInterval.6h.ShortName" = "6h";
+"Wallet.TimeInterval.5m.LongName" = "5 mins";
+"Wallet.TimeInterval.5m.ShortName" = "5m";
+"Wallet.TimeInterval.6h.LongName" = "6 hours";
+"Wallet.TimeInterval.6h.ShortName" = "6h";
