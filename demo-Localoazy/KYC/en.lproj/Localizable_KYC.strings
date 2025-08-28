@@ -6,6 +6,6 @@
   
 */
 
-"KYC.PLSpotTradingHomeSegmentView.BottomFloatView.Sell" = "Sell";
-"KYC.PLSpotTradingHomeSegmentView.OrderBook.AmountTitle" = "Amount";
-"KYC.PLSpotTradingHomeSegmentView.OrderBook.PriceTitle" = "Price";
+"KYC.PLSpotTradingHomeSegmentView.BottomFloatView.Sell" = "Sell same";
+"KYC.PLSpotTradingHomeSegmentView.OrderBook.AmountTitle" = "Amount same";
+"KYC.PLSpotTradingHomeSegmentView.OrderBook.PriceTitle" = "Price same";
