@@ -1,2 +1,6 @@
 "Fiat.Chart.TipView.Items.LowKey" = "Low";
 "Fiat.Chart.TipView.Items.OpenKey" = "Open";
+"Fiat.WebPay.OrderResult.Expired.Title" = "Session expired";
+"Fiat.WebPay.OrderResult.Failed.Desc" = "Your payment has failed due to [%@]. You will be redirected to the merchant.";
+"Fiat.WebPay.OrderResult.Failed.Title" = "Payment failed";
+"Fiat.WebPay.OrderResult.Processing.Title" = "Payment processing";

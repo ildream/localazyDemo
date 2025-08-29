@@ -1,2 +1,6 @@
 "Fiat.Chart.TipView.Items.LowKey" = "ต่ำ";
 "Fiat.Chart.TipView.Items.OpenKey" = "เปิด";
+"Fiat.WebPay.OrderResult.Expired.Title" = "เซสชั่นหมดอายุแล้ว";
+"Fiat.WebPay.OrderResult.Failed.Desc" = "การชำระเงินของคุณล้มเหลวเนื่องจาก [%@ ]. คุณจะถูกนำไปยังหน้าร้านค้า";
+"Fiat.WebPay.OrderResult.Failed.Title" = "การชำระเงินล้มเหลว";
+"Fiat.WebPay.OrderResult.Processing.Title" = "การประมวลผลการชำระเงิน";

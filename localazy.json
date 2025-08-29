@@ -1,7 +1,7 @@
 {
     "writeKey": "a6844415880134061289-a49173521ab77fcc367f05bbba3f72de53ae8a0e60c0958f0891509d0590370a",
     "readKey": "a6844415880134061289-ea4e5ac4199a218d6565bf2827c640b59ba65fd3075dae7882bdb7d524599547",
-    "branch": "develop_v1",
+    "branch": "main",
     "upload": {
         "appVersion": 2,
         "deprecate": "project",

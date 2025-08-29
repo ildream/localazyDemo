@@ -1,3 +1,3 @@
-"KYC.PLSpotTradingHomeSegmentView.BottomFloatView.Sell" = "ขาย";
-"KYC.PLSpotTradingHomeSegmentView.OrderBook.AmountTitle" = "จำนวน";
-"KYC.PLSpotTradingHomeSegmentView.OrderBook.PriceTitle" = "ราคา";
+"KYC.PLSpotTradingHomeSegmentView.BottomFloatView.Sell" = "ขายหมด";
+"KYC.PLSpotTradingHomeSegmentView.OrderBook.AmountTitle" = "จำนวนเงินออก";
+"KYC.PLSpotTradingHomeSegmentView.OrderBook.PriceTitle" = "ราคาออก";

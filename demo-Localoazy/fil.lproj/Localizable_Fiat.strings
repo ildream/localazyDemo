@@ -1,2 +1,6 @@
 "Fiat.Chart.TipView.Items.LowKey" = "Mababa";
 "Fiat.Chart.TipView.Items.OpenKey" = "Bukas";
+"Fiat.WebPay.OrderResult.Expired.Title" = "Nag-expire na ang session";
+"Fiat.WebPay.OrderResult.Failed.Desc" = "Nabigo ang iyong pagbabayad dahil sa [%@ ]. Ire-redirect ka sa merchant.";
+"Fiat.WebPay.OrderResult.Failed.Title" = "Nabigo ang pagbabayad";
+"Fiat.WebPay.OrderResult.Processing.Title" = "Pagproseso ng pagbabayad";
